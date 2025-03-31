@@ -50,3 +50,6 @@ hacking nasa :) (just a test commit)
 [2025-03-31T18:17:44.518Z]
 
 Portfolio Update
+[2025-03-31T19:02:53.731Z]
+
+New Article, novo projeto de bot de discord
