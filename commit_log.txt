@@ -53,3 +53,6 @@ Portfolio Update
 [2025-03-31T19:02:53.731Z]
 
 New Article, novo projeto de bot de discord
+[2025-04-02T18:07:27.407Z]
+
+"Corrige tratamento de exceções ao calcular compatibilidade no matchmaking"
