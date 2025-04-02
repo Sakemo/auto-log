@@ -56,3 +56,6 @@ New Article, novo projeto de bot de discord
 [2025-04-02T18:07:27.407Z]
 
 "Corrige tratamento de exceções ao calcular compatibilidade no matchmaking"
+[2025-04-02T18:41:43.629Z]
+
+update realizado em 02/04/2025, 15:41:43
