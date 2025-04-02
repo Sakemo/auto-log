@@ -74,3 +74,6 @@ Better matchmaking logic
 [2025-04-02T20:12:20.609Z]
 
 modularização 1.0
+[2025-04-02T20:52:21.834Z]
+
+Modularização 2
