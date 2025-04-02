@@ -68,3 +68,6 @@ Adicionado suporte a tipos de matchmaking: similaridade e complementaridade.
 [2025-04-02T19:34:29.158Z]
 
 Better matchmaking logic
+[2025-04-02T19:42:27.212Z]
+
+- Calcular compatibilidade bonus com cargos
