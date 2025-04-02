@@ -77,3 +77,6 @@ modularização 1.0
 [2025-04-02T20:52:21.834Z]
 
 Modularização 2
+[2025-04-02T21:12:23.603Z]
+
+correção de slash commands
