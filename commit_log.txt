@@ -71,3 +71,6 @@ Better matchmaking logic
 [2025-04-02T19:42:27.212Z]
 
 - Calcular compatibilidade bonus com cargos
+[2025-04-02T20:12:20.609Z]
+
+modularização 1.0
