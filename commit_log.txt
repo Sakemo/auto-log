@@ -65,3 +65,6 @@ Refatoração de cálculo de compatibilidade e remoção de métodos não utiliz
 [2025-04-02T19:11:43.885Z]
 
 Adicionado suporte a tipos de matchmaking: similaridade e complementaridade.
+[2025-04-02T19:34:29.158Z]
+
+Better matchmaking logic
