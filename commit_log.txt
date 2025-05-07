@@ -89,3 +89,6 @@ Auto commit realizado em 06/05/2025, 16:39:25 (fallback)
 [2025-05-07T17:21:35.216Z]
 
 Roteamento Básico, Layout Principal
+[2025-05-07T18:01:07.728Z]
+
+ Sidebar edit
