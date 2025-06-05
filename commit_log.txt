@@ -104,3 +104,6 @@ Calculando Fiado em ClienteService | FLICK BUSINESS
 [2025-05-28T17:42:25.139Z]
 
 Auto commit realizado em 28/05/2025, 14:42:24 (fallback)
+[2025-06-05T16:52:38.269Z]
+
+FLICK_BUSINESS - Bugs de Clientes não aparecendo corrigido
