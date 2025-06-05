@@ -107,3 +107,6 @@ Auto commit realizado em 28/05/2025, 14:42:24 (fallback)
 [2025-06-05T16:52:38.269Z]
 
 FLICK_BUSINESS - Bugs de Clientes não aparecendo corrigido
+[2025-06-05T17:12:50.619Z]
+
+Implementando lógica para parâmetros de filtro e ordenação - FLICK_BUSINESS.CLIENTES
