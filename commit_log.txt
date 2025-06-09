@@ -110,3 +110,6 @@ FLICK_BUSINESS - Bugs de Clientes não aparecendo corrigido
 [2025-06-05T17:12:50.619Z]
 
 Implementando lógica para parâmetros de filtro e ordenação - FLICK_BUSINESS.CLIENTES
+[2025-06-09T20:48:11.354Z]
+
+Feat(Despesas): Implement CRUD functionality for expenses with filtering and modal support
