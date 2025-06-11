@@ -113,3 +113,6 @@ Implementando lógica para parâmetros de filtro e ordenação - FLICK_BUSINESS.
 [2025-06-09T20:48:11.354Z]
 
 Feat(Despesas): Implement CRUD functionality for expenses with filtering and modal support
+[2025-06-11T20:30:08.660Z]
+
+Adds state management for vendas and clientes in VendasPage  Introduces state variables to manage vendas, clientes, loading, and error states in VendasPage for enhanced functionality.  Expands domain types with interface definitions for handling venda requests and responses, including detailed structures for items, payment methods, and observations.
