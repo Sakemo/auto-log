@@ -116,3 +116,6 @@ Feat(Despesas): Implement CRUD functionality for expenses with filtering and mod
 [2025-06-11T20:30:08.660Z]
 
 Adds state management for vendas and clientes in VendasPage  Introduces state variables to manage vendas, clientes, loading, and error states in VendasPage for enhanced functionality.  Expands domain types with interface definitions for handling venda requests and responses, including detailed structures for items, payment methods, and observations.
+[2025-06-12T20:09:22.774Z]
+
+Adds state management for vendas and clientes in VendasPage  Introduces state variables to manage vendas, clientes, loading, and error states in VendasPage for enhanced functionality.  Expands domain types with interface definitions for handling venda requests and responses, including detailed structures for items, payment methods, and observations.  Adds state management and filters to VendasPage  Introduces state variables for vendas and clientes, enabling dynamic filtering by date, client, and payment method. Expands domain types to support detailed venda requests and responses. Enhances UI functionality with modals for creating and viewing vendas.
